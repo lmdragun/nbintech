@@ -54,6 +54,6 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 7. License and attribution
 
-This Code of Conduct is adapted from Strumptown Syndicate [http://strumptownsyndicate.org/code-of-conduct] where it is distributed under a Creative Commons Attribution-ShareAlike license.
+This Code of Conduct is adapted from Strumptown Syndicate [http://stumptownsyndicate.org/code-of-conduct] where it is distributed under a Creative Commons Attribution-ShareAlike license.
 
 Portions of text derived from the Django Code of Conduct and the Geek Feminism Anti-Harassment Policy.
